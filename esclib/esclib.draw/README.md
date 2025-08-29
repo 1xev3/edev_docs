@@ -1,6 +1,2 @@
----
-icon: wrench
----
-
 # esclib.draw
 
