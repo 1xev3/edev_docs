@@ -1,2 +1,6 @@
+---
+icon: table-columns
+---
+
 # Panels
 
