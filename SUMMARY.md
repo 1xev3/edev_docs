@@ -1,0 +1,35 @@
+# Table of contents
+
+## esclib
+
+* [Panels](README.md)
+  * [esclib.button](esclib/panels/esclib.button.md)
+  * [esclib.iconlayout](esclib/panels/esclib.iconlayout.md)
+* [esclib.netstream](esclib/esclib.netstream.md)
+* [esclib.vgui](esclib/esclib.vgui.md)
+* [esclib.utils](esclib/esclib.utils/README.md)
+  * [esclib.util:TruncateStr](esclib/esclib.utils/esclib.util-truncatestr.md)
+  * [esclib.util:IsRestrictedChar](esclib/esclib.utils/esclib.util-isrestrictedchar.md)
+  * [esclib.util:HexToColor](esclib/esclib.utils/esclib.util-hextocolor.md)
+  * [esclib.util.PrecacheArc](esclib/esclib.utils/esclib.util.precachearc.md)
+  * [esclib.util:NumberLimit](esclib/esclib.utils/esclib.util-numberlimit.md)
+  * [esclib.util:NiceTime](esclib/esclib.utils/esclib.util-nicetime.md)
+  * [esclib.util:Round](esclib/esclib.utils/esclib.util-round.md)
+  * [esclib.util:TextCutAccurate](esclib/esclib.utils/esclib.util-textcutaccurate.md)
+  * [esclib.util:TextCut](esclib/esclib.utils/esclib.util-textcut.md)
+  * [esclib.util:TextSize](esclib/esclib.utils/esclib.util-textsize.md)
+  * [esclib.util:IsValuesEqual](esclib/esclib.utils/esclib.util-isvaluesequal.md)
+  * [esclib.util:ColorMean](esclib/esclib.utils/esclib.util-colormean.md)
+  * [esclib.util:PrecacheRoundedPoly](esclib/esclib.utils/esclib.util-precacheroundedpoly.md)
+* [esclib.text](esclib/esclib.text.md)
+* [esclib.draw](esclib/esclib.draw/README.md)
+  * [esclib.draw:Mask](esclib/esclib.draw/esclib.draw-mask.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
