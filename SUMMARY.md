@@ -40,4 +40,5 @@
   * [esclib.util:ColorMean](esclib/esclib.util/esclib.util-colormean.md)
   * [esclib.util:PrecacheRoundedPoly](esclib/esclib.util/esclib.util-precacheroundedpoly.md)
 * [esclib.text](esclib/esclib.text.md)
-* [esclib.draw](esclib/esclib.draw.md)
+* [esclib.draw](esclib/esclib.draw/README.md)
+  * [123](esclib/esclib.draw/123.md)
