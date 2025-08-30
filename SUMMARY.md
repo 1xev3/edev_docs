@@ -61,3 +61,7 @@
   * [KeyFormat](esclib-functional/esclib.text/KeyFormat.md)
   * [MatchSplit](esclib-functional/esclib.text/MatchSplit.md)
   * [distance](esclib-functional/esclib.text/distance.md)
+
+## esclib - addon management
+
+* [test](esclib-addon-management/test.md)
